@@ -294,7 +294,7 @@ light: #dae7fb
 dark: #dae7fb
 
 -- ftd.color info-text-:
-light: #5290ec
+light: #5290ec33
 dark: #5290ec
 
 -- ftd.color info-border-:
