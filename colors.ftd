@@ -35,12 +35,12 @@ light: #a0a0a0
 dark: #a0a0a0
 
 -- ftd.color text-:
-light: #242930
-dark: #ffffff
+light: #24293099
+dark: #ffffff99
 
 -- ftd.color text-strong-:
-light: #707070
-dark: #707070
+light: #242930
+dark: #ffffff
 
 -- ftd.color shadow-:
 light: #73c9a5
