@@ -1,4 +1,4 @@
-# Header
+# Midnight-storm-cs
 
 fastn-community.github.io/midnight-storm-cs is a fastn midnight-storm-cs component which contains
 multiple ftd midnight-storm-cs components can be used on your pages.
