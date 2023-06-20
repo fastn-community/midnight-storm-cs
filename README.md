@@ -1,15 +1,27 @@
-# Adding warmth and energy to your designs with the fastn Color Schemes.
+# Welcome to [FASTN midnight-storm-cs](https://fastn-community.github.io/midnight-storm-cs/)
+![Contributors](https://img.shields.io/github/contributors/fastn-community/midnight-storm-cs?color=dark-green) [![Discord](https://img.shields.io/discord/793929082483769345)](https://discord.com/channels/793929082483769345/) ![License](https://img.shields.io/github/license/fastn-community/midnight-storm-cs)
+# Overview
 
-The colors we choose for our designs can have a big impact on the mood and emotions they evoke. Whether you're designing a website, app, or any other project, the right color scheme can take your design to the next level. And for designs that want to convey warmth, energy, and a sense of adventure, the saturated sunset color scheme is the perfect choice.
+⚡️ [midnight-storm-cs](https://fastn-community.github.io/midnight-storm-cs/) will help you create a beautiful documentation site in no time.
 
-## For fastn Designers:
+It provides out-of-the-box documentation features that can be used to create any kind of site(personal website, blog, etc).
 
-How to Create a fastn color scheme? [Click here](https://fastn.com/figma-to-fastn-cs/)
+## How it looks?
 
+![midnight-storm-cs](/static/midnight-storm-cs-dark-example.png)
 
-How to use Figma Tokens with fastn color scheme? [Click here](https://fastn.com/figma/)
+## 🚀 Fast Track
 
+Use this fastn template to create your first [fastn web-site](https://fastn.com/expander/hello-world/-/build/) project in just 5 minutes!
 
-## For fastn Developers:
+## 🌟 Whats next?
 
-How to modify color scheme? [Click here](https://fastn.com/modify-cs/)
+Read our [midnight-storm-cs documentation](https://fastn-community.github.io/midnight-storm-cs/)
+
+Create your first page. [Click here to know more](https://fastn-community.github.io/midnight-storm-cs/page/)
+
+## ⚓ [Changelog](Changelog.md)
+
+## 👀 Want to learn more?
+
+Feel free to check our [expander course](https://fastn.com/expander/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
