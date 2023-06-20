@@ -1,15 +1,45 @@
-# Adding warmth and energy to your designs with the fastn Color Schemes.
+# Header
 
-The colors we choose for our designs can have a big impact on the mood and emotions they evoke. Whether you're designing a website, app, or any other project, the right color scheme can take your design to the next level. And for designs that want to convey warmth, energy, and a sense of adventure, the saturated sunset color scheme is the perfect choice.
+fastn-community.github.io/midnight-storm-cs is a fastn midnight-storm-cs component which contains
+multiple ftd midnight-storm-cs components can be used on your pages.
 
-## For fastn Designers:
+# Preview
 
-How to Create a fastn color scheme? [Click here](https://fastn.com/figma-to-fastn-cs/)
+![Midnight-storm-cs](static/midnight-storm-cs-screenshot.png)
+
+# Get Rolling
+
+[Click here](https://fastn-community.github.io/midnight-storm-cs/) to learn how to use this package.
+
+# [Dive into the Docs](https://fastn-community.github.io/midnight-storm-cs/)
+
+# See it in Action! 
+
+Explore websites and projects that have utilized this component [here](https://fastn.com/home/)
+for inspiration.
 
 
-How to use Figma Tokens with fastn color scheme? [Click here](https://fastn.com/figma/)
+# [Changelog](Changelog.md)
 
+# fastn and Curious?
 
-## For fastn Developers:
+Discover more of fastn here.
 
-How to modify color scheme? [Click here](https://fastn.com/modify-cs/)
+- [Expander Crash Course](https://fastn.com/expander/)
+- [Video Tutorials](https://fastn.com/expander/hello-world/-/build/)
+- [Explore more Templates/ Components/ Package](https://fastn.com/featured/)
+
+# Become a fastn Contributor
+
+Here's your roadmap:
+
+1.  Finish the [Expander Crash Course](https://fastn.com/expander/)
+2.  Share your progress and ideas on [Discord](https://discord.gg/bucrdvptYd).
+3.  Let our team guide you on your contributor journey.
+
+## Become a fastn-trailblazer
+
+- [Join our Discord Server](https://discord.gg/bucrdvptYd) to connect with other fastn enthusiasts and stay up to date with the latest developments.
+- [Star us on GitHub](https://github.com/fastn-stack/fastn/)
+
+## License - [Open Source BSD](https://github.com/fastn-community/midnight-storm-cs/blob/main/LICENSE)
