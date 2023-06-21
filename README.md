@@ -1,15 +1,36 @@
-# Adding warmth and energy to your designs with the fastn Color Schemes.
+# Midnight-storm-cs
 
-The colors we choose for our designs can have a big impact on the mood and emotions they evoke. Whether you're designing a website, app, or any other project, the right color scheme can take your design to the next level. And for designs that want to convey warmth, energy, and a sense of adventure, the saturated sunset color scheme is the perfect choice.
+fastn-community.github.io/midnight-storm-cs is a fastn midnight-storm-cs component which contains
+multiple ftd midnight-storm-cs components can be used on your pages.
 
-## For fastn Designers:
+# Preview
 
-How to Create a fastn color scheme? [Click here](https://fastn.com/figma-to-fastn-cs/)
+![Midnight-storm-cs](.github/assets/midnight-storm-cs-screenshot.png)
 
+# Get Rolling
 
-How to use Figma Tokens with fastn color scheme? [Click here](https://fastn.com/figma/)
+[Click here](https://fastn-community.github.io/midnight-storm-cs/) to learn how to use this package.
 
+# [Dive into the Docs](https://fastn-community.github.io/midnight-storm-cs/)
 
-## For fastn Developers:
+# See it in Action! 
 
-How to modify color scheme? [Click here](https://fastn.com/modify-cs/)
+Explore websites and projects that have utilized this component [here](https://fastn.com/home/)
+for inspiration.
+
+# [Changelog](Changelog.md)
+
+# fastn and Curious?
+
+Discover more of fastn here.
+
+- [Expander Crash Course](https://fastn.com/expander/)
+- [Video Tutorials](https://fastn.com/expander/hello-world/-/build/)
+- [Explore more Templates/ Components/ Package](https://fastn.com/featured/)
+
+## Become a fastn-trailblazer
+
+- [Join our Discord Server](https://discord.gg/bucrdvptYd) to connect with other fastn enthusiasts and stay up to date with the latest developments.
+- [Star us on GitHub](https://github.com/fastn-stack/fastn/)
+
+## License - [Open Source BSD](https://github.com/fastn-community/midnight-storm-cs/blob/main/LICENSE)
