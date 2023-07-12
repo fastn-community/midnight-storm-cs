@@ -19,7 +19,7 @@ name: default-colors
 -- cd.package: THEME
 name: `midnight-storm-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `midnight-storm-cs` Color Scheme
+subtitle: midnight-storm-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
