@@ -22,8 +22,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: midnight-storm-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Midnight Storm CS: fastn color scheme package
-document-description: Midnight Storm CS: fastn color scheme package
+document-title: Charleston and Aquamarine Green-themed Colour Scheme for Web Design | fastn Midnight Storm CS
+document-description: Discover the Midnight Storm Colour Scheme by fastn, featuring beautiful shades of charleston and aquamarine green for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/midnight-storm-cs-dark.png
 
 -- cp.components-pallete:
